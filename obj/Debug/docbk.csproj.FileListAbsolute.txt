@@ -1,0 +1,11 @@
+D:\code\visual studio 2013\Projects\bk\bk\bin\Debug\bk.exe.config
+D:\code\visual studio 2013\Projects\bk\bk\bin\Debug\bk.exe
+D:\code\visual studio 2013\Projects\bk\bk\bin\Debug\bk.pdb
+D:\code\visual studio 2013\Projects\bk\bk\obj\Debug\docbk.csprojResolveAssemblyReference.cache
+D:\code\visual studio 2013\Projects\bk\bk\obj\Debug\bk.AboutBox1.resources
+D:\code\visual studio 2013\Projects\bk\bk\obj\Debug\bk.BkSetForm.resources
+D:\code\visual studio 2013\Projects\bk\bk\obj\Debug\bk.MainForm.resources
+D:\code\visual studio 2013\Projects\bk\bk\obj\Debug\bk.Properties.Resources.resources
+D:\code\visual studio 2013\Projects\bk\bk\obj\Debug\docbk.csproj.GenerateResource.Cache
+D:\code\visual studio 2013\Projects\bk\bk\obj\Debug\bk.exe
+D:\code\visual studio 2013\Projects\bk\bk\obj\Debug\bk.pdb

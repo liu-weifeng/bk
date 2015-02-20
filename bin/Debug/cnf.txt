@@ -1,0 +1,2 @@
+D:\code\visual studio 2013\Projects\bk\bk\bin\Debug
+D:\Games\Battle.net\Logs
