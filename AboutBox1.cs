@@ -19,8 +19,7 @@ namespace bk
             this.labelVersion.Text = String.Format("版本 {0}", AssemblyVersion);
             this.labelCopyright.Text = AssemblyCopyright;
             this.labelCompanyName.Text = AssemblyCompany;
-            //this.textBoxDescription.Text = AssemblyDescription;
-            this.richTextBox1.Text = AssemblyDescription;
+            this.textBoxDescription.Text = AssemblyDescription;
         }
 
         #region 程序集特性访问器
@@ -105,7 +104,7 @@ namespace bk
 
         private void okButton_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.DialogResult = DialogResult.OK;
         }
     }
 }
